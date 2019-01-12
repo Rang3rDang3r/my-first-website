@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #bada55;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+nav a {
+    text-decoration: none;
+    color: teal;
+    display: block;
+}
+
+nav a:hover {
+    background-color: teal;
+    color: #bada55;
+}
+
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+}
+
+.card a {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+div a {
+    color: #bada55;
+    text-decoration: none;
+}
+
+div a:hover {
+    color: teal;
+}
+
+h1 {
+    color: #bada55;
+    background-color: teal;
+    margin-bottom: 20px;
+    margin-top: 0;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px;
+}
