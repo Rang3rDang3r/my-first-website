@@ -48,7 +48,7 @@ img {
 }
 
 div a {
-    color: #bada55;
+    color: lightsteelblue;
     text-decoration: none;
 }
 
@@ -64,4 +64,8 @@ h1 {
     font-weight: 800;
     text-align: center;
     padding: 10px;
+}
+
+body {
+    background-color: lightsteelblue;
 }
