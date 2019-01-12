@@ -14,3 +14,4 @@ including nav points using lists and a mix of inline-block and block elements fo
 Finally i used the CLI to push the project across and make adjustments as and when necessary.
 ##### All the links are to their respective wikipedia URLs.
 ###### I take no credit for the images provided.
+[Many thanks to Code Institue Full Stack Development team for the opportunity.](https://codeinstitute.net)
